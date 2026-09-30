@@ -13,9 +13,10 @@ src
 ├── vitals_module.py
 ├── alert_module.py
 ├── main.py
+├── vitals_logs.csv
 └── logging_module.py
 
-vitals_logs.csv
+
 ```
 
 ---
