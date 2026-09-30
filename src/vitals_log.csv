@@ -1,0 +1,13 @@
+timestamp,heart_rate_bpm,temperature_c,spo2_percent,status,note
+2026-09-30T19:08:23,71,36.8,97,Normal,All vitals within normal range
+2026-09-30T19:08:25,84,36.8,98,Normal,All vitals within normal range
+2026-09-30T19:08:27,81,36.8,96,Normal,All vitals within normal range
+2026-09-30T19:08:29,67,36.6,98,Normal,All vitals within normal range
+2026-09-30T19:08:31,66,36.5,97,Normal,All vitals within normal range
+2026-09-30T19:08:33,76,36.8,95,Normal,All vitals within normal range
+2026-09-30T19:08:41,36,40.4,81,Critical,HR critical (36 bpm); Temp critical (40.4°C); SpO2 critical (81%)
+2026-09-30T19:08:41,36,40.4,81,CRITICAL,HR critical (36 bpm); Temp critical (40.4°C); SpO2 critical (81%) | SOS triggered
+2026-09-30T19:09:20,128,39.2,83,Critical,HR critical (128 bpm); Temp critical (39.2°C); SpO2 critical (83%)
+2026-09-30T19:09:20,128,39.2,83,CRITICAL,HR critical (128 bpm); Temp critical (39.2°C); SpO2 critical (83%) | SOS triggered
+2026-09-30T19:09:58,160,39.8,89,Critical,HR critical (160 bpm); Temp critical (39.8°C); SpO2 critical (89%)
+2026-09-30T19:09:58,160,39.8,89,CRITICAL,HR critical (160 bpm); Temp critical (39.8°C); SpO2 critical (89%) | SOS triggered
