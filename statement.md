@@ -9,9 +9,10 @@ The system is designed with a modular structure to separate vital-sign processin
 ## Project Structure
 
 ```text
-main.py
+src
 ├── vitals_module.py
 ├── alert_module.py
+├── main.py
 └── logging_module.py
 
 vitals_logs.csv
